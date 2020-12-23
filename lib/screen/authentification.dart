@@ -1,5 +1,5 @@
-import 'package:crypto_wallet/net/flutterfire.dart';
-import 'package:crypto_wallet/screen/homescreen.dart';
+import 'package:crypto_wallet_app/net/flutterfire.dart';
+import 'package:crypto_wallet_app/screen/homescreen.dart';
 import 'package:flutter/material.dart';
 
 class Authentification extends StatefulWidget {

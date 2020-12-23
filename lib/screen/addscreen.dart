@@ -1,6 +1,4 @@
-import 'dart:io';
-
-import 'package:crypto_wallet/net/flutterfire.dart';
+import 'package:crypto_wallet_app/net/flutterfire.dart';
 import 'package:flutter/material.dart';
 
 class AddScreen extends StatefulWidget {

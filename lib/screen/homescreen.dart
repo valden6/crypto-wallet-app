@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:crypto_wallet/net/api_methods.dart';
-import 'package:crypto_wallet/net/flutterfire.dart';
-import 'package:crypto_wallet/screen/addscreen.dart';
+import 'package:crypto_wallet_app/net/api_methods.dart';
+import 'package:crypto_wallet_app/net/flutterfire.dart';
+import 'package:crypto_wallet_app/screen/addscreen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 

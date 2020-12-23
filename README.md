@@ -3,5 +3,8 @@ A simple crypto wallet application with authentification and firestore database.
 
 ## Version
 
+### [1.0.1] 
+Minor bug fixes
+
 ### [1.0.0] 
 Adding ui design + Adding firebase auth + Adding firebase storage + Adding API connections + Adding real time crypto values
